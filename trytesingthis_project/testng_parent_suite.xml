@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Resgression_Suite">
+  <test name="Resgreession Test">
+    <classes>
+      <class name="testngpackage.signupTest"/>
+      <class name="testngpackage.registrationPage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Resgression_Suite -->

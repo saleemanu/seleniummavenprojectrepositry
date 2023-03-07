@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [HomePageSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="HomePageTest(failed)">
+    <classes>
+      <class name="ecom.Package.HomePageTest">
+        <methods>
+          <include name="maximize"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- ecom.Package.HomePageTest -->
+    </classes>
+  </test> <!-- HomePageTest(failed) -->
+</suite> <!-- Failed suite [HomePageSuite] -->
